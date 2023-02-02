@@ -105,10 +105,15 @@ div {
 div a {
   color: white;
   font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  text-decoration: none;
 }
+  
 
 div:hover {
   background-color: grey;
+  
 }
 
 footer {
